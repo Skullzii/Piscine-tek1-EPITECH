@@ -1,6 +1,6 @@
 #include "my.h"
 
-int my_getnbr(char *str) {
+int  my_getnbr(char *str) {
 	unsigned int n = 0;
 	int nb = 1;
 	int i = 0;

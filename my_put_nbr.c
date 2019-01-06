@@ -1,6 +1,6 @@
 #include "my.h"
 
-void my_put_nbr(int nb) {
+void  my_put_nbr(int nb) {
 	int i = 1;
 	unsigned int n = nb;
 
